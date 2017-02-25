@@ -1,0 +1,6 @@
+[package]
+name = "serial-number-arithmetic"
+version = "1.0.0"
+authors = ["ypoluektovich"]
+
+[dependencies]
