@@ -2,5 +2,6 @@
 name = "serial-number-arithmetic"
 version = "1.0.0"
 authors = ["ypoluektovich"]
+description = "An implementation of Serial Number Arithmetic as defined in RFC 1982"
 
 [dependencies]
